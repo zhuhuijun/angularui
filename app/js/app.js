@@ -22,5 +22,9 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
         .state("PageTab.Page3", {
             url: "/Page3",
             templateUrl: 'pages/page3.html'
+        })
+        .state("PageTab.Page4", {
+            url: "/Page4",
+            templateUrl: 'pages/page4.html'
         });
 });
