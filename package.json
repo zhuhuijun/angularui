@@ -1,0 +1,22 @@
+{
+  "name": "angularui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhuhuijun/angularui.git"
+  },
+  "keywords": [
+    "ui"
+  ],
+  "author": "zhuhj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuhuijun/angularui/issues"
+  },
+  "homepage": "https://github.com/zhuhuijun/angularui#readme"
+}
